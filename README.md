@@ -5,7 +5,11 @@ Minetest
 [![Translation status](https://hosted.weblate.org/widgets/minetest/-/svg-badge.svg)](https://hosted.weblate.org/engage/minetest/?utm_source=widget)
 [![License](https://img.shields.io/badge/license-LGPLv2.1%2B-blue.svg)](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
-Minetest is a free open-source voxel game engine with easy modding and game creation.
+Erikcraft is a open-source game engine with easy modding and game creation.
+warning Erikcraft is not free so  if you want multiplayer buy the game 
+compiling the source code you will need to pay for the game and if you 
+do not the game source you compiled will say you need to pay for the multiplayer
+you are free to edit this code at any time under the general public lisence
 
 Copyright (C) 2010-2022 Perttu Ahola <celeron55@gmail.com>
 and contributors (see source file comments and the version control log)
