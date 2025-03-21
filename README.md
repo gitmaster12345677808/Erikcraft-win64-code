@@ -9,7 +9,7 @@ Erikcraft is a open-source game engine with easy modding and game creation.
 warning Erikcraft is not free so  if you want multiplayer buy the game 
 compiling the source code you will need to pay for the game and if you 
 do not the game source you compiled will say you need to pay for the multiplayer
-you are free to edit this code at any time under the general public lisence
+you are free to edit this code at any time under the general public licence
 Copyright (C) 2023-2024  <nod00jr@gmail.com>
 and contributors (see source file comments and the version control log)
 
